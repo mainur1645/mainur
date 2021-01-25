@@ -11,4 +11,4 @@ Please feel free to change these parameters in Checkout.py script where you will
 
 I have also provided a rough sketch of the design (Design Document.docx)
 
-This is very old. need to update
+This is very old. need to update soon
